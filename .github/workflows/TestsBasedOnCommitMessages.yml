@@ -31,9 +31,11 @@ jobs:
               dotnet test
             else
               echo "No test project found for $EXERCISE_NAME."
+              exit 1
             fi
           else
             echo "No tests to run for the current branch."
+            exit 1
           fi
 
 #  cd:
