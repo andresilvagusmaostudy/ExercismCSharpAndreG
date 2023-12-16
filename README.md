@@ -8,3 +8,4 @@ Here I will share my free acount exercise solutions from exercism for the C# lea
 3- Clone it in your local machine:
 ![Clonninh2](https://github.com/andresilvagusmao/ExercismCSharpAndreG/assets/46381013/1d4f68ef-7c68-4100-b077-2316b79dada7)
 
+T
